@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<table border="1" cellspacing="0" width="450" style="text-align:center">
+<table border="1" cellspacing="0" cellpadding="5" width="450" style="text-align:center; margin: 20px 0 0 20px">
     <tr>
         <th>Age</th>
         <th>Account Balance</th>
