@@ -3,7 +3,7 @@
 
 <table border="1" cellspacing="0" width="450" style="text-align:center">
     <tr>
-        <th>Hiba's Age</th>
+        <th>Age</th>
         <th>Account Balance</th>
     </tr>
 
